@@ -73,6 +73,10 @@ Ensure you have Python 3.10+ installed.
    OPENAI_API_KEY=your_openai_api_key_here
    ```
 
+4. **Download dataset:**
+   * Download Fudan News dataset from: https://www.kaggle.com/datasets/louislung/categorised-news-dataset-from-fudan-university
+   * Extract and save in the project directory
+
 ---
 
 ## 💡 Usage
